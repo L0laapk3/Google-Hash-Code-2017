@@ -1,0 +1,2 @@
+python oplossing.py
+pause
